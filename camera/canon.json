@@ -1,0 +1,635 @@
+{
+  "cameras": [
+    {
+      "brand": "Canon",
+      "model": "EOS R5",
+      "sensor": {
+        "type": "Full-frame",
+        "resolution": "45MP",
+        "processor": "DIGIC X"
+      },
+      "mount": ["RF", "RF-S"],
+      "viewfinder": {
+        "type": "0.5-inch OLED colour EVF",
+        "coverage": "100%",
+        "magnification": "0.76x",
+        "DOF": "Yes, via customised button"
+      },
+      "body": {
+        "weight": "738g",
+        "dimensions": "138 x 98 x 88mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.2 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "8K",
+        "fps": "20",
+        "autofocus": "Dual Pixel CMOS AF II",
+        "image_stabilization": "5-axis In-Body"
+      },
+      "battery": "LP-E6NH",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS R6",
+      "sensor": {
+        "type": "Full-frame",
+        "resolution": "20.1MP",
+        "processor": "DIGIC X"
+      },
+      "mount": ["RF", "RF-S"],
+      "viewfinder": {
+        "type": "0.5-inch OLED colour EVF",
+        "coverage": "100%",
+        "magnification": "0.76x",
+        "DOF": "Yes, via customised button"
+      },
+      "body": {
+        "weight": "680g",
+        "dimensions": "138 x 98 x 88mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 60fps",
+        "fps": "12",
+        "autofocus": "Dual Pixel CMOS AF II",
+        "image_stabilization": "5-axis In-Body"
+      },
+      "battery": "LP-E6NH",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS R7",
+      "sensor": {
+        "type": "APS-C",
+        "resolution": "32.5MP",
+        "processor": "DIGIC X"
+      },
+      "mount": ["RF", "RF-S"],
+      "viewfinder": {
+        "type": "OLED EVF",
+        "coverage": "100%",
+        "magnification": "0.72x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "612g",
+        "dimensions": "132 x 90 x 92mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 60fps",
+        "fps": "15",
+        "autofocus": "Dual Pixel CMOS AF II",
+        "image_stabilization": "In-Body"
+      },
+      "battery": "LP-E6NH",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS R8",
+      "sensor": {
+        "type": "Full-frame",
+        "resolution": "24.2MP",
+        "processor": "DIGIC X"
+      },
+      "mount": ["RF", "RF-S"],
+      "viewfinder": {
+        "type": "OLED EVF",
+        "coverage": "100%",
+        "magnification": "0.70x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "461g",
+        "dimensions": "133 x 86 x 70mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 60fps",
+        "fps": "40",
+        "autofocus": "Dual Pixel CMOS AF II",
+        "image_stabilization": "Digital IS"
+      },
+      "battery": "LP-E17",
+      "ideal_for": "photo and video"
+    },
+
+    {
+      "brand": "Canon",
+      "model": "EOS 90D",
+      "sensor": {
+        "type": "APS-C",
+        "resolution": "32.5MP",
+        "processor": "DIGIC 8"
+      },
+      "mount": ["EF", "EF-S"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "100%",
+        "magnification": "0.95x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "701g",
+        "dimensions": "140.7 x 104.8 x 76.8mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 30fps",
+        "fps": "10",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E6N",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS M6 Mark II",
+      "sensor": {
+        "type": "APS-C",
+        "resolution": "32.5MP",
+        "processor": "DIGIC 8"
+      },
+      "mount": ["EF-M"],
+      "viewfinder": {
+        "type": "Electronic",
+        "coverage": "100%",
+        "magnification": "0.7x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "408g",
+        "dimensions": "119.6 x 70 x 49.2mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 30fps",
+        "fps": "14",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E17",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS Rebel T8i",
+      "sensor": {
+        "type": "APS-C",
+        "resolution": "24.1MP",
+        "processor": "DIGIC 8"
+      },
+      "mount": ["EF", "EF-S"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "95%",
+        "magnification": "0.87x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "532g",
+        "dimensions": "122.4 x 92.6 x 76.2mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 24fps",
+        "fps": "7",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E17",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS 1D X Mark III",
+      "sensor": {
+        "type": "Full-frame",
+        "resolution": "20.1MP",
+        "processor": "DIGIC X"
+      },
+      "mount": ["EF"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "100%",
+        "magnification": "0.76x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "1440g",
+        "dimensions": "158 x 167.6 x 82.6mm"
+      },
+      "screen": {
+        "articulating": false,
+        "touch": true,
+        "size": "3.2 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "5.5K 60fps",
+        "fps": "20",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E19",
+      "ideal_for": "sports and action photography"
+    },
+
+    {
+      "brand": "Canon",
+      "model": "EOS 5D Mark IV",
+      "sensor": {
+        "type": "Full-frame",
+        "resolution": "30.4MP",
+        "processor": "DIGIC 6+"
+      },
+      "mount": ["EF"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "100%",
+        "magnification": "0.71x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "890g",
+        "dimensions": "150.7 x 116.4 x 75.9mm"
+      },
+      "screen": {
+        "articulating": false,
+        "touch": true,
+        "size": "3.2 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 30fps",
+        "fps": "7",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E6N",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS 6D Mark II",
+      "sensor": {
+        "type": "Full-frame",
+        "resolution": "26.2MP",
+        "processor": "DIGIC 7"
+      },
+      "mount": ["EF"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "98%",
+        "magnification": "0.71x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "765g",
+        "dimensions": "144.0 x 110.5 x 74.8mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "Full HD 60fps",
+        "fps": "6.5",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E6N",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS Rebel SL3",
+      "sensor": {
+        "type": "APS-C",
+        "resolution": "24.1MP",
+        "processor": "DIGIC 8"
+      },
+      "mount": ["EF", "EF-S"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "95%",
+        "magnification": "0.87x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "449g",
+        "dimensions": "122.4 x 92.6 x 69.8mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 24fps",
+        "fps": "5",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E17",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS M50 Mark II",
+      "sensor": {
+        "type": "APS-C",
+        "resolution": "24.1MP",
+        "processor": "DIGIC 8"
+      },
+      "mount": ["EF-M"],
+      "viewfinder": {
+        "type": "Electronic",
+        "coverage": "100%",
+        "magnification": "0.7x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "387g",
+        "dimensions": "116.3 x 88.1 x 58.7mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 24fps",
+        "fps": "10",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E12",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS 70D",
+      "sensor": {
+        "type": "APS-C",
+        "resolution": "20.2MP",
+        "processor": "DIGIC 5+"
+      },
+      "mount": ["EF", "EF-S"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "98%",
+        "magnification": "0.59x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "755g",
+        "dimensions": "139.0 x 104.3 x 78.5mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": false
+      },
+      "features": {
+        "video": "Full HD 30fps",
+        "fps": "7",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E6",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS 200D Mark II",
+      "sensor": {
+        "type": "APS-C",
+        "resolution": "24.1MP",
+        "processor": "DIGIC 8"
+      },
+      "mount": ["EF", "EF-S"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "95%",
+        "magnification": "0.87x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "449g",
+        "dimensions": "122.4 x 92.6 x 69.8mm"
+      },
+      "screen": {
+        "articulating": true,
+        "touch": true,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "Full HD 60fps",
+        "fps": "5",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E17",
+      "ideal_for": "photo and video"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS 1D X Mark II",
+      "sensor": {
+        "type": "Full-frame",
+        "resolution": "20.2MP",
+        "processor": "DIGIC 6+"
+      },
+      "mount": ["EF"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "100%",
+        "magnification": "0.76x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "1530g",
+        "dimensions": "158.0 x 164.6 x 87.2mm"
+      },
+      "screen": {
+        "articulating": false,
+        "touch": true,
+        "size": "3.2 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": true
+      },
+      "features": {
+        "video": "4K 60fps",
+        "fps": "14",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E19",
+      "ideal_for": "sports and action photography"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS 5DS",
+      "sensor": {
+        "type": "Full-frame",
+        "resolution": "50.6MP",
+        "processor": "DIGIC 6"
+      },
+      "mount": ["EF"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "100%",
+        "magnification": "0.71x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "930g",
+        "dimensions": "156.5 x 116.4 x 75.4mm"
+      },
+      "screen": {
+        "articulating": false,
+        "touch": true,
+        "size": "3.2 inches"
+      },
+      "connectivity": {
+        "wifi": false,
+        "bluetooth": false
+      },
+      "features": {
+        "video": "Full HD 30fps",
+        "fps": "5",
+        "autofocus": "9-point AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E6",
+      "ideal_for": "high-resolution photography"
+    },
+    {
+      "brand": "Canon",
+      "model": "EOS 7D Mark II",
+      "sensor": {
+        "type": "APS-C",
+        "resolution": "20.2MP",
+        "processor": "DIGIC 6"
+      },
+      "mount": ["EF", "EF-S"],
+      "viewfinder": {
+        "type": "Optical",
+        "coverage": "100%",
+        "magnification": "0.95x",
+        "DOF": "Yes"
+      },
+      "body": {
+        "weight": "820g",
+        "dimensions": "148.6 x 112.6 x 78.3mm"
+      },
+      "screen": {
+        "articulating": false,
+        "touch": false,
+        "size": "3.0 inches"
+      },
+      "connectivity": {
+        "wifi": true,
+        "bluetooth": false
+      },
+      "features": {
+        "video": "Full HD 60fps",
+        "fps": "10",
+        "autofocus": "Dual Pixel CMOS AF",
+        "image_stabilization": "None"
+      },
+      "battery": "LP-E6N",
+      "ideal_for": "sports and wildlife photography"
+    }
+  ]
+}
