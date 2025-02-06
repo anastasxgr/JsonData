@@ -7,7 +7,7 @@ Mini collection of Json objects for serverless API's.
 
 | Directory | Resource | Description | Length |
 | --- | -- | ----------- | -- |
-| Camera | canon.json | List of canon devices | 17
+| Camera | cameras.json | List of canon devices | 17
 
 
 ### 🔥 Support 
