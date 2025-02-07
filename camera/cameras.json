@@ -13,10 +13,15 @@
       "autofocus_points": 45,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
+
     {
       "type": "DSLR",
       "brand": "Nikon",
@@ -30,7 +35,11 @@
       "autofocus_points": 51,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -47,7 +56,11 @@
       "autofocus_points": 693,
       "video_resolution": "4K",
       "beginner_friendly": false,
-      "connectivity": ["Bluetooth", "WiFi", "NFC"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": true
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -64,7 +77,11 @@
       "autofocus_points": 425,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -81,7 +98,11 @@
       "autofocus_points": 1053,
       "video_resolution": "4K",
       "beginner_friendly": false,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -98,7 +119,11 @@
       "autofocus_points": 33,
       "video_resolution": "Full HD",
       "beginner_friendly": false,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -115,7 +140,11 @@
       "autofocus_points": 225,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -132,7 +161,11 @@
       "autofocus_points": 153,
       "video_resolution": "Full HD",
       "beginner_friendly": false,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -149,7 +182,11 @@
       "autofocus_points": 425,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -166,7 +203,11 @@
       "autofocus_points": 425,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -183,7 +224,11 @@
       "autofocus_points": 11,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -200,7 +245,11 @@
       "autofocus_points": 225,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -217,7 +266,11 @@
       "autofocus_points": 45,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -234,7 +287,11 @@
       "autofocus_points": 759,
       "video_resolution": "4K",
       "beginner_friendly": false,
-      "connectivity": ["Bluetooth", "WiFi", "NFC"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": true
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -251,7 +308,11 @@
       "autofocus_points": 39,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -268,7 +329,11 @@
       "autofocus_points": 425,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -285,7 +350,11 @@
       "autofocus_points": 11,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -302,7 +371,11 @@
       "autofocus_points": 49,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -319,7 +392,11 @@
       "autofocus_points": 45,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -336,7 +413,11 @@
       "autofocus_points": 425,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -353,7 +434,11 @@
       "autofocus_points": 39,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD"]
     },
@@ -370,7 +455,11 @@
       "autofocus_points": 49,
       "video_resolution": "HD",
       "beginner_friendly": false,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC"]
     },
@@ -387,7 +476,11 @@
       "autofocus_points": 11,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD"]
     },
@@ -404,7 +497,11 @@
       "autofocus_points": 49,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -421,7 +518,11 @@
       "autofocus_points": 61,
       "video_resolution": "Full HD",
       "beginner_friendly": false,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["CF", "SD", "SDHC", "SDXC"]
     },
@@ -438,7 +539,11 @@
       "autofocus_points": 567,
       "video_resolution": "4K",
       "beginner_friendly": false,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -455,7 +560,11 @@
       "autofocus_points": 39,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -472,7 +581,11 @@
       "autofocus_points": 325,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -489,7 +602,11 @@
       "autofocus_points": 33,
       "video_resolution": "Full HD",
       "beginner_friendly": false,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -506,7 +623,11 @@
       "autofocus_points": 225,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -523,7 +644,11 @@
       "autofocus_points": 45,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -540,7 +665,11 @@
       "autofocus_points": 693,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi", "NFC"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": true
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -557,7 +686,11 @@
       "autofocus_points": 39,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -574,7 +707,11 @@
       "autofocus_points": 425,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -591,7 +728,11 @@
       "autofocus_points": 11,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD"]
     },
@@ -608,7 +749,11 @@
       "autofocus_points": 225,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -626,7 +771,11 @@
       "autofocus_points": 273,
       "video_resolution": "4K",
       "beginner_friendly": false,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -644,7 +793,11 @@
       "autofocus_points": 39,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -662,7 +815,11 @@
       "autofocus_points": 9,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -680,7 +837,11 @@
       "autofocus_points": 9,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -698,7 +859,11 @@
       "autofocus_points": 9,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -716,7 +881,11 @@
       "autofocus_points": 19,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "NFC"],
+      "connectivity": {
+        "bluetooth": false,
+        "wifi": true,
+        "nfc": true
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -734,7 +903,11 @@
       "autofocus_points": 693,
       "video_resolution": "4K",
       "beginner_friendly": false,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -752,7 +925,11 @@
       "autofocus_points": 61,
       "video_resolution": "4K",
       "beginner_friendly": false,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["CF", "SD", "SDHC", "SDXC"]
     },
@@ -770,7 +947,11 @@
       "autofocus_points": 225,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -788,7 +969,11 @@
       "autofocus_points": 425,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC", "SDXC"]
     },
@@ -806,7 +991,11 @@
       "autofocus_points": 9,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -824,7 +1013,11 @@
       "autofocus_points": 425,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth", "WiFi"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -842,7 +1035,11 @@
       "autofocus_points": 191,
       "video_resolution": "4K",
       "beginner_friendly": false,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 2,
       "card_types": ["CF", "SD", "SDHC", "SDXC"]
     },
@@ -860,7 +1057,11 @@
       "autofocus_points": 11,
       "video_resolution": "Full HD",
       "beginner_friendly": true,
-      "connectivity": ["Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": false,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     },
@@ -877,7 +1078,11 @@
       "autofocus_points": 143,
       "video_resolution": "4K",
       "beginner_friendly": true,
-      "connectivity": ["WiFi", "Bluetooth"],
+      "connectivity": {
+        "bluetooth": true,
+        "wifi": true,
+        "nfc": false
+      },
       "card_slots": 1,
       "card_types": ["SD", "SDHC"]
     }
