@@ -20,7 +20,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000001.png",
@@ -42,7 +46,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000002.png",
@@ -64,7 +72,11 @@
         "nfc": true
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000003.png",
@@ -86,7 +98,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000004.png",
@@ -108,7 +124,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000005.png",
@@ -130,7 +150,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000006.png",
@@ -152,7 +176,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000007.png",
@@ -174,7 +202,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000008.png",
@@ -196,7 +228,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000009.png",
@@ -218,7 +254,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000010.png",
@@ -240,7 +280,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000011.png",
@@ -262,7 +306,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000012.png",
@@ -284,7 +332,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000013.png",
@@ -306,7 +358,11 @@
         "nfc": true
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000014.png",
@@ -328,7 +384,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000015.png",
@@ -350,7 +410,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000016.png",
@@ -372,7 +436,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000017.png",
@@ -394,7 +462,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000018.png",
@@ -416,7 +488,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000019.png",
@@ -438,7 +514,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000020.png",
@@ -460,7 +540,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD"]
+      "card_types": ["SD"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000021.png",
@@ -482,7 +566,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000022.png",
@@ -504,7 +592,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD"]
+      "card_types": ["SD"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000023.png",
@@ -526,7 +618,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000024.png",
@@ -548,7 +644,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["CF", "SD", "SDHC", "SDXC"]
+      "card_types": ["CF", "SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000025.png",
@@ -570,7 +670,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000026.png",
@@ -592,7 +696,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000027.png",
@@ -614,7 +722,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000028.png",
@@ -636,7 +748,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000029.png",
@@ -658,7 +774,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000030.png",
@@ -680,7 +800,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000031.png",
@@ -702,7 +826,11 @@
         "nfc": true
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000032.png",
@@ -724,7 +852,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000033.png",
@@ -746,7 +878,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000034.png",
@@ -768,7 +904,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD"]
+      "card_types": ["SD"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000035.png",
@@ -790,7 +930,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000036.png",
@@ -812,7 +956,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000037.png",
@@ -834,7 +982,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000038.png",
@@ -856,7 +1008,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000039.png",
@@ -878,7 +1034,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000040.png",
@@ -900,7 +1060,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000041.png",
@@ -922,7 +1086,11 @@
         "nfc": true
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000042.png",
@@ -944,7 +1112,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000043.png",
@@ -966,7 +1138,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["CF", "SD", "SDHC", "SDXC"]
+      "card_types": ["CF", "SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000044.png",
@@ -988,7 +1164,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000045.png",
@@ -1010,7 +1190,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000046.png",
@@ -1032,7 +1216,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000047.png",
@@ -1054,7 +1242,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000048.png",
@@ -1076,7 +1268,11 @@
         "nfc": false
       },
       "card_slots": 2,
-      "card_types": ["CF", "SD", "SDHC", "SDXC"]
+      "card_types": ["CF", "SD", "SDHC", "SDXC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000049.png",
@@ -1098,7 +1294,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": false
+      }
     },
     {
       "thumbnail": "images/cameras/thumbnail_000050.png",
@@ -1120,7 +1320,11 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC"]
+      "card_types": ["SD", "SDHC"],
+      "goodfor": {
+        "photo": true,
+        "video": true
+      }
     }
   ]
 }
