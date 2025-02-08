@@ -24,7 +24,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["LP-E6N", "LP-E6"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000001.png",
@@ -50,7 +51,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["EN-EL15"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000002.png",
@@ -76,7 +78,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-FZ100"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000003.png",
@@ -102,7 +105,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-W235"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000004.png",
@@ -128,7 +132,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["LP-E6NH", "LP-E6N"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000005.png",
@@ -154,7 +159,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["D-LI90"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000006.png",
@@ -180,7 +186,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["DMW-BLF19"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000007.png",
@@ -206,7 +213,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["EN-EL15a"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000008.png",
@@ -232,7 +240,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-FW50"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000009.png",
@@ -258,7 +267,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-W126S"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000010.png",
@@ -284,7 +294,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["D-LI109"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000011.png",
@@ -310,7 +321,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["DMW-BLF19"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000012.png",
@@ -336,7 +348,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["LP-E6N", "LP-E6"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000013.png",
@@ -362,7 +375,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-FZ100"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000014.png",
@@ -388,7 +402,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["EN-EL14a"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000015.png",
@@ -414,7 +429,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-W126S"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000016.png",
@@ -440,7 +456,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["D-LI109"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000017.png",
@@ -466,7 +483,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["DMW-BLG10"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000018.png",
@@ -492,7 +510,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["LP-E6N", "LP-E6"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000019.png",
@@ -518,7 +537,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-FW50"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000020.png",
@@ -544,7 +564,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["EN-EL14a"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000021.png",
@@ -570,7 +591,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["NP-W126S"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000022.png",
@@ -596,7 +618,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["D-LI90"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000023.png",
@@ -622,7 +645,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["DMW-BLF19"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000024.png",
@@ -648,7 +672,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["LP-E6", "LP-E6N"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000025.png",
@@ -674,7 +699,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-FZ100"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000026.png",
@@ -700,7 +726,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["EN-EL14a"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000027.png",
@@ -726,7 +753,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-W126S"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000028.png",
@@ -752,7 +780,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["D-LI90"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000029.png",
@@ -778,7 +807,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["DMW-BLF19"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000030.png",
@@ -804,7 +834,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["LP-E6N", "LP-E6"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000031.png",
@@ -830,7 +861,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-FZ100"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000032.png",
@@ -856,7 +888,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["EN-EL14a"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000033.png",
@@ -882,7 +915,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-W235"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000034.png",
@@ -908,7 +942,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["D-LI109"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000035.png",
@@ -934,7 +969,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["DMW-BLF19"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000036.png",
@@ -960,7 +996,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["EN-EL15b"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000037.png",
@@ -986,7 +1023,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["EN-EL14"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000038.png",
@@ -1012,7 +1050,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["LP-E17"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000039.png",
@@ -1034,11 +1073,12 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"],
+      "card_types": ["SD", "SDHC"],
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["LP-E10"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000040.png",
@@ -1060,11 +1100,12 @@
         "nfc": false
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"],
+      "card_types": ["SD", "SDHC"],
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["LP-E8"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000041.png",
@@ -1086,11 +1127,12 @@
         "nfc": true
       },
       "card_slots": 1,
-      "card_types": ["SD", "SDHC", "SDXC"],
+      "card_types": ["SD", "SDHC"],
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["LP-E6", "LP-E6N"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000042.png",
@@ -1116,7 +1158,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-FZ100"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000043.png",
@@ -1142,7 +1185,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["LP-E6", "LP-E6N"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000044.png",
@@ -1168,7 +1212,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["DMW-BLK22"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000045.png",
@@ -1194,7 +1239,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-W126S"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000046.png",
@@ -1220,7 +1266,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["LP-E6"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000047.png",
@@ -1246,7 +1293,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["NP-FW50"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000048.png",
@@ -1272,7 +1320,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["LP-E19"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000049.png",
@@ -1298,7 +1347,8 @@
       "goodfor": {
         "photo": true,
         "video": false
-      }
+      },
+      "battery_types": ["EN-EL14"]
     },
     {
       "thumbnail": "images/cameras/thumbnail_000050.png",
@@ -1324,7 +1374,8 @@
       "goodfor": {
         "photo": true,
         "video": true
-      }
+      },
+      "battery_types": ["LP-E12"]
     }
   ]
 }
