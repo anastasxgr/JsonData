@@ -1,7 +1,7 @@
 {
   "cameras": [
     {
-      "thumbnail": "images/cameras/thumbnail_000000.png",
+      "thumbnail": "thumbnail_000000.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS 90D",
@@ -28,7 +28,7 @@
       "battery_types": ["LP-E6N", "LP-E6"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000001.png",
+      "thumbnail": "thumbnail_000001.png",
       "type": "DSLR",
       "brand": "Nikon",
       "model": "D7500",
@@ -55,7 +55,7 @@
       "battery_types": ["EN-EL15"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000002.png",
+      "thumbnail": "thumbnail_000002.png",
       "type": "Mirrorless",
       "brand": "Sony",
       "model": "A7 III",
@@ -82,7 +82,7 @@
       "battery_types": ["NP-FZ100"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000003.png",
+      "thumbnail": "thumbnail_000003.png",
       "type": "Mirrorless",
       "brand": "Fujifilm",
       "model": "X-T4",
@@ -109,7 +109,7 @@
       "battery_types": ["NP-W235"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000004.png",
+      "thumbnail": "thumbnail_000004.png",
       "type": "Mirrorless",
       "brand": "Canon",
       "model": "EOS R6",
@@ -136,7 +136,7 @@
       "battery_types": ["LP-E6NH", "LP-E6N"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000005.png",
+      "thumbnail": "thumbnail_000005.png",
       "type": "DSLR",
       "brand": "Pentax",
       "model": "K-1 II",
@@ -163,7 +163,7 @@
       "battery_types": ["D-LI90"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000006.png",
+      "thumbnail": "thumbnail_000006.png",
       "type": "Mirrorless",
       "brand": "Panasonic",
       "model": "GH5 II",
@@ -190,7 +190,7 @@
       "battery_types": ["DMW-BLF19"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000007.png",
+      "thumbnail": "thumbnail_000007.png",
       "type": "DSLR",
       "brand": "Nikon",
       "model": "D850",
@@ -217,7 +217,7 @@
       "battery_types": ["EN-EL15a"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000008.png",
+      "thumbnail": "thumbnail_000008.png",
       "type": "Mirrorless",
       "brand": "Sony",
       "model": "A6400",
@@ -244,7 +244,7 @@
       "battery_types": ["NP-FW50"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000009.png",
+      "thumbnail": "thumbnail_000009.png",
       "type": "Mirrorless",
       "brand": "Fujifilm",
       "model": "X-T3",
@@ -271,7 +271,7 @@
       "battery_types": ["NP-W126S"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000010.png",
+      "thumbnail": "thumbnail_000010.png",
       "type": "DSLR",
       "brand": "Pentax",
       "model": "K-70",
@@ -298,7 +298,7 @@
       "battery_types": ["D-LI109"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000011.png",
+      "thumbnail": "thumbnail_000011.png",
       "type": "Mirrorless",
       "brand": "Panasonic",
       "model": "G9",
@@ -325,7 +325,7 @@
       "battery_types": ["DMW-BLF19"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000012.png",
+      "thumbnail": "thumbnail_000012.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS 80D",
@@ -352,7 +352,7 @@
       "battery_types": ["LP-E6N", "LP-E6"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000013.png",
+      "thumbnail": "thumbnail_000013.png",
       "type": "Mirrorless",
       "brand": "Sony",
       "model": "A7 IV",
@@ -379,7 +379,7 @@
       "battery_types": ["NP-FZ100"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000014.png",
+      "thumbnail": "thumbnail_000014.png",
       "type": "DSLR",
       "brand": "Nikon",
       "model": "D5600",
@@ -406,7 +406,7 @@
       "battery_types": ["EN-EL14a"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000015.png",
+      "thumbnail": "thumbnail_000015.png",
       "type": "Mirrorless",
       "brand": "Fujifilm",
       "model": "X-E4",
@@ -433,7 +433,7 @@
       "battery_types": ["NP-W126S"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000016.png",
+      "thumbnail": "thumbnail_000016.png",
       "type": "DSLR",
       "brand": "Pentax",
       "model": "K-70 II",
@@ -460,7 +460,7 @@
       "battery_types": ["D-LI109"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000017.png",
+      "thumbnail": "thumbnail_000017.png",
       "type": "Mirrorless",
       "brand": "Panasonic",
       "model": "GX850",
@@ -487,7 +487,7 @@
       "battery_types": ["DMW-BLG10"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000018.png",
+      "thumbnail": "thumbnail_000018.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS Rebel T9i",
@@ -514,7 +514,7 @@
       "battery_types": ["LP-E6N", "LP-E6"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000019.png",
+      "thumbnail": "thumbnail_000019.png",
       "type": "Mirrorless",
       "brand": "Sony",
       "model": "A6100",
@@ -541,7 +541,7 @@
       "battery_types": ["NP-FW50"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000020.png",
+      "thumbnail": "thumbnail_000020.png",
       "type": "DSLR",
       "brand": "Nikon",
       "model": "D5300",
@@ -568,7 +568,7 @@
       "battery_types": ["EN-EL14a"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000021.png",
+      "thumbnail": "thumbnail_000021.png",
       "type": "Mirrorless",
       "brand": "Fujifilm",
       "model": "X-T1 II",
@@ -595,7 +595,7 @@
       "battery_types": ["NP-W126S"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000022.png",
+      "thumbnail": "thumbnail_000022.png",
       "type": "DSLR",
       "brand": "Pentax",
       "model": "K-30",
@@ -622,7 +622,7 @@
       "battery_types": ["D-LI90"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000023.png",
+      "thumbnail": "thumbnail_000023.png",
       "type": "Mirrorless",
       "brand": "Panasonic",
       "model": "G7",
@@ -649,7 +649,7 @@
       "battery_types": ["DMW-BLF19"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000024.png",
+      "thumbnail": "thumbnail_000024.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS 5D III",
@@ -676,7 +676,7 @@
       "battery_types": ["LP-E6", "LP-E6N"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000025.png",
+      "thumbnail": "thumbnail_000025.png",
       "type": "Mirrorless",
       "brand": "Sony",
       "model": "A7R IV",
@@ -703,7 +703,7 @@
       "battery_types": ["NP-FZ100"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000026.png",
+      "thumbnail": "thumbnail_000026.png",
       "type": "DSLR",
       "brand": "Nikon",
       "model": "D3500",
@@ -730,7 +730,7 @@
       "battery_types": ["EN-EL14a"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000027.png",
+      "thumbnail": "thumbnail_000027.png",
       "type": "Mirrorless",
       "brand": "Fujifilm",
       "model": "X-E3",
@@ -757,7 +757,7 @@
       "battery_types": ["NP-W126S"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000028.png",
+      "thumbnail": "thumbnail_000028.png",
       "type": "DSLR",
       "brand": "Pentax",
       "model": "K-1",
@@ -784,7 +784,7 @@
       "battery_types": ["D-LI90"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000029.png",
+      "thumbnail": "thumbnail_000029.png",
       "type": "Mirrorless",
       "brand": "Panasonic",
       "model": "GH5",
@@ -811,7 +811,7 @@
       "battery_types": ["DMW-BLF19"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000030.png",
+      "thumbnail": "thumbnail_000030.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS Rebel T8i",
@@ -838,7 +838,7 @@
       "battery_types": ["LP-E6N", "LP-E6"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000031.png",
+      "thumbnail": "thumbnail_000031.png",
       "type": "Mirrorless",
       "brand": "Sony",
       "model": "A7C",
@@ -865,7 +865,7 @@
       "battery_types": ["NP-FZ100"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000032.png",
+      "thumbnail": "thumbnail_000032.png",
       "type": "DSLR",
       "brand": "Nikon",
       "model": "D5600 II",
@@ -892,7 +892,7 @@
       "battery_types": ["EN-EL14a"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000033.png",
+      "thumbnail": "thumbnail_000033.png",
       "type": "Mirrorless",
       "brand": "Fujifilm",
       "model": "X-T5",
@@ -919,7 +919,7 @@
       "battery_types": ["NP-W235"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000034.png",
+      "thumbnail": "thumbnail_000034.png",
       "type": "DSLR",
       "brand": "Pentax",
       "model": "K-50 II",
@@ -946,7 +946,7 @@
       "battery_types": ["D-LI109"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000035.png",
+      "thumbnail": "thumbnail_000035.png",
       "type": "Mirrorless",
       "brand": "Panasonic",
       "model": "GH6",
@@ -973,7 +973,7 @@
       "battery_types": ["DMW-BLF19"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000036.png",
+      "thumbnail": "thumbnail_000036.png",
       "type": "Mirrorless",
       "brand": "Nikon",
       "model": "Z6",
@@ -1000,7 +1000,7 @@
       "battery_types": ["EN-EL15b"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000037.png",
+      "thumbnail": "thumbnail_000037.png",
       "type": "DSLR",
       "brand": "Nikon",
       "model": "D5200",
@@ -1027,7 +1027,7 @@
       "battery_types": ["EN-EL14"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000038.png",
+      "thumbnail": "thumbnail_000038.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS 250D",
@@ -1054,7 +1054,7 @@
       "battery_types": ["LP-E17"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000039.png",
+      "thumbnail": "thumbnail_000039.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS 2000D",
@@ -1081,7 +1081,7 @@
       "battery_types": ["LP-E10"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000040.png",
+      "thumbnail": "thumbnail_000040.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS 700D",
@@ -1108,7 +1108,7 @@
       "battery_types": ["LP-E8"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000041.png",
+      "thumbnail": "thumbnail_000041.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS 70D",
@@ -1135,7 +1135,7 @@
       "battery_types": ["LP-E6", "LP-E6N"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000042.png",
+      "thumbnail": "thumbnail_000042.png",
       "type": "Mirrorless",
       "brand": "Sony",
       "model": "A9 II",
@@ -1162,7 +1162,7 @@
       "battery_types": ["NP-FZ100"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000043.png",
+      "thumbnail": "thumbnail_000043.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS 5D Mark IV",
@@ -1189,7 +1189,7 @@
       "battery_types": ["LP-E6", "LP-E6N"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000044.png",
+      "thumbnail": "thumbnail_000044.png",
       "type": "Mirrorless",
       "brand": "Panasonic",
       "model": "Lumix S5",
@@ -1216,7 +1216,7 @@
       "battery_types": ["DMW-BLK22"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000045.png",
+      "thumbnail": "thumbnail_000045.png",
       "type": "Mirrorless",
       "brand": "Fujifilm",
       "model": "X-S10",
@@ -1243,7 +1243,7 @@
       "battery_types": ["NP-W126S"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000046.png",
+      "thumbnail": "thumbnail_000046.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS Rebel T7",
@@ -1270,7 +1270,7 @@
       "battery_types": ["LP-E6"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000047.png",
+      "thumbnail": "thumbnail_000047.png",
       "type": "Mirrorless",
       "brand": "Sony",
       "model": "ZV-E10",
@@ -1297,7 +1297,7 @@
       "battery_types": ["NP-FW50"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000048.png",
+      "thumbnail": "thumbnail_000048.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS 1D X Mark III",
@@ -1324,7 +1324,7 @@
       "battery_types": ["LP-E19"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000049.png",
+      "thumbnail": "thumbnail_000049.png",
       "type": "DSLR",
       "brand": "Nikon",
       "model": "D3400",
@@ -1351,7 +1351,7 @@
       "battery_types": ["EN-EL14"]
     },
     {
-      "thumbnail": "images/cameras/thumbnail_000050.png",
+      "thumbnail": "thumbnail_000050.png",
       "type": "DSLR",
       "brand": "Canon",
       "model": "EOS M50",
